@@ -26,3 +26,11 @@ body{
 .purple{
     background-color: purple;
 }
+
+.flash{
+    background-color: white;
+}
+
+.userflash{
+    background-color: green;
+}
